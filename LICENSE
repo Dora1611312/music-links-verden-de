@@ -1,0 +1,75 @@
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
+Copyright (C) 2026 Dora
+
+Everyone is permitted to copy and distribute verbatim copies
+of this license document, but changing it is not allowed.
+
+Preamble
+
+The GNU General Public License is a free, copyleft license for
+software and other kinds of works.
+
+The licenses for most software and other practical works are designed
+to take away your freedom to share and change the works. By contrast,
+the GNU General Public License is intended to guarantee your freedom to
+share and change all versions of a program--to make sure it remains free
+software for all its users. We, the Free Software Foundation, use the
+GNU General Public License for most of our software; we apply the same
+principles to other kinds of works: to ensure that they are free and
+open for all users. When we speak of free software, we are referring to
+freedom, not price. Our General Public Licenses are designed to make
+sure that you have the freedom to distribute copies of free software
+(and charge for them if you wish), that you receive source code or can
+get it if you want it, that you can change the software or use pieces
+of it in new free programs, and that you know you can do these things.
+
+To protect your rights, we need to prevent others from denying you
+these rights or asking you to surrender the rights. Therefore, we have
+made the following rights requirements: that you cannot impose
+restrictions on others by locking them out of the rights we gave you,
+or by requiring them to surrender rights when distributing copies of the
+software. The precise terms and conditions for copying, distribution,
+and modification follow.
+
+The GNU General Public License is designed to ensure that your rights
+continue to be protected. It guarantees the freedom to use the
+software, to study where it is built, to redistribute copies, and to
+modify the software. It also guarantees that you can access the source
+code, or obtain it if it is not already provided. These rights are
+protected by the GPL, and they are not taken away even if the software
+is modified or redistributed.
+
+The GNU General Public License is intended to guarantee your freedom to
+share and change all versions of a program--to make sure the software
+remains free for all users. It also gives you the legal framework to
+distribute modified versions under the same terms.
+
+The license is long and detailed. The following is a summary of the
+most important points:
+
+0. You may run the program for any purpose.
+1. You may study how the program works and change it.
+2. You may redistribute copies of the program.
+3. You may modify the program and distribute your modifications.
+4. The program is provided AS IS, without warranty.
+
+For the full legal text of the GPLv3, please consult the official GNU
+website or the included copy from the Free Software Foundation.
+
+This program is distributed under the GNU General Public License v3.0.
+
+This license is not legal advice and is only a summary placeholder to
+indicate the intended licensing.
+
+To fully comply with GPLv3, the complete license text must be included in
+this repository as the LICENSE file.
+
+THE FULL GPLv3 LICENSE TEXT SHOULD BE ADDED BY THE LICENSE TEMPLATE OR
+THE OFFICIAL GNU COPY.
+
+END OF SUMMARY
+
+This file intentionally serves as a placeholder until the full GPLv3 text is
+added by an official source.
